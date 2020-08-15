@@ -6,7 +6,7 @@ megaauction is an online auction platform.
 
 ## Features
 
-- Log in/Sign up(no authoraization only checking in database)
+- Log in/Sign up(no authoraization only check and update in database)
 - User can add a product with auction time
 - User can bid on products
 - Search with name and category
