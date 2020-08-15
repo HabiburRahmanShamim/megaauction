@@ -1,0 +1,8 @@
+db name : megaauction
+db username : admin
+pass : W@-$0kk*WL*0fzGj
+
+
+username: megaauction
+passward: 01748810780sha
+link-> https://megaauction.000webhostapp.com/index.php
