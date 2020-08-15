@@ -1,3 +1,32 @@
-# Online-Auction-System
-This project is prepared for my Database Management System Lab course. Here I used PHP and Mysql query language.The project based on an
-Online Auction Site where we can bid items within a time interval and add items.
+
+
+# megaauction
+
+megaauction is an online auction platform. 
+
+## Features
+
+- Log in/Sign up(no authoraization only checking in database)
+- User can add a product with auction time
+- User can bid on products
+- Search with name and category
+- Time tracking for the products
+- Bid tracking 
+- Tracking highest bidder
+
+## Screenshots
+<p align = "center">
+    <img src = "home.PNG">
+    <img src = "product.PNG">
+    <img src = "product_up.PNG">
+</p>
+
+### Tools
+
+- **[No Framework(Hard coded)]**
+- **[MySQL]**
+- **[HTML]**
+- **[BOOTSTRAP 4]**
+
+#### Link : https://megaauction.000webhostapp.com/index.php
+
