@@ -23,7 +23,7 @@ megaauction is an online auction platform.
 
 ### Tools
 
-- **[No Framework(Hard coded)]**
+- **[PHP (No Framework)]**
 - **[MySQL]**
 - **[HTML, CSS]**
 - **[BOOTSTRAP 4]**
